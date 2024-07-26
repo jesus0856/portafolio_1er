@@ -50,8 +50,24 @@ function Semana05() {
 
   return (
     <>
-    <div className='numero_semana'>SEMANA 05</div>
+    <div id="semana_05" className='numero_semana'>SEMANA 05</div>
     <div className='subtitulo_semana'><h2>MANIPULACION DEL DOM </h2></div>
+
+        <div className="reflexion_1">
+            <h2 className="h2_10_1">LABORATORIO 5</h2>
+            <div className="area_1">
+              <h3>Definición:</h3>
+              <p><strong>DOM (Document Object Model) JavaScript:</strong> Es una interfaz de programación que permite a los scripts acceder y manipular el contenido, estructura y estilo de los documentos HTML y XML.</p>
+              <p><strong>JavaScript:</strong> Es un lenguaje de programación interpretado que se utiliza para crear contenido web dinámico e interactivo. Permite manipular el DOM, manejar eventos, validar formularios, y mucho más.</p>
+
+            </div>
+            
+            <div className="area_1">
+              <h3>Reflexión Metacognitiva:</h3>
+              <p>En este laboratorio, profundicé en la manipulación del DOM con JavaScript, aprendiendo a seleccionar, modificar y crear elementos en una página web. Utilicé métodos como getElementById, querySelector y createElement para interactuar con el DOM. Aprendí a través de ejercicios prácticos que involucraban la creación de interacciones dinámicas en la web, como añadir y eliminar elementos, y cambiar estilos en respuesta a eventos del usuario. Esta práctica me ayudó a entender mejor cómo los scripts pueden transformar una página estática en una aplicación web interactiva.</p>
+            </div>
+        </div>
+
     <div className="container_semana5">
       <h2 className="titulo">Ejercicio 01: Manipular el HTML con un click</h2>
       <p>{texto1}</p>

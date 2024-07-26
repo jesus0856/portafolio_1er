@@ -45,8 +45,25 @@ const Semana03 = () => {
   return (
 
     <>
-    <div className='numero_semana'>SEMANA 03</div>
+    <div id="semana_03" className='numero_semana'>SEMANA 03</div>
     <div className='subtitulo_semana'><h2>Librerias de CSS para diseño responsive</h2></div>
+
+
+        <div className="reflexion_1">
+            <h2 className="h2_10_1">LABORATORIO 3</h2>
+            <div className="area_1">
+              <h3>Definiciones:</h3>
+              <p><strong>Bootstrap CSS:</strong> Es un framework de CSS que facilita el desarrollo rápido de sitios web responsivos y móviles. Proporciona una serie de clases predefinidas para layout, componentes y utilidades.</p>
+              <p><strong>Tailwind CSS:</strong> Es un framework de CSS de utilidad que permite construir diseños personalizados de manera rápida utilizando clases de utilidad directamente en el HTML.</p>
+      
+            </div>
+            
+            <div className="area_1">
+                <h3>Reflexión Metacognitiva:</h3>
+                <p>En este laboratorio, aprendí a usar Bootstrap y Tailwind CSS para crear interfaces web rápidas y responsivas. Bootstrap me permitió implementar rápidamente un diseño coherente utilizando sus componentes y sistema de grid. Por otro lado, Tailwind CSS me ofreció una mayor flexibilidad y control granular sobre los estilos mediante clases de utilidad. Aprendí comparando ambos frameworks en proyectos reales, lo que me ayudó a comprender cuándo y cómo utilizar cada uno dependiendo del contexto del proyecto.</p>
+                </div>
+        </div>
+
     <h2>3.1. RESPONSIVE CON BOOTSTRAP</h2>
     <Container>
       <Row>

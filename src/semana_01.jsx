@@ -7,7 +7,22 @@ function Semana01() {
       <>
       <div id="semana_01" className='numero_semana'>SEMANA 01</div>
       <div className='subtitulo_semana'><h2>pluging Emmet y atajos de teclado en Visual Studio Code</h2></div>
-      <div>        
+      <div>  
+        
+      <div className="reflexion_1">
+        <h2 className="h2_10_1">LABORATORIO 1</h2>
+        <div className="area_1">
+          <h3>Definiciones:</h3>
+          <p><strong>Plugin Emmet:</strong> Es una herramienta de productividad para desarrolladores web que permite escribir código HTML y CSS de manera rápida y eficiente utilizando abreviaciones. Emmet expande estas abreviaciones en código completo, ahorrando tiempo y esfuerzo.</p>
+          </div>
+        
+        <div className="area_1">
+          <h3>Reflexión Metacognitiva:</h3>
+          <p>En este laboratorio, aprendí a utilizar el plugin Emmet para acelerar la escritura de código HTML y CSS. Este plugin me permitió generar estructuras de código complejas con abreviaciones simples, mejorando significativamente mi productividad. Empecé practicando las abreviaciones básicas y luego avancé a patrones más complejos. La experimentación y la práctica constante me ayudaron a internalizar las diferentes sintaxis de Emmet, haciendo que mi flujo de trabajo sea más eficiente y fluido.</p>
+          </div>
+      </div>
+
+      <h1>EJERCICIOS DE LABORATORIO</h1>
         <header id="header">
           <div id="menu">
             <li><a href="">enlace 1</a></li>

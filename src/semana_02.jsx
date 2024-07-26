@@ -17,8 +17,24 @@ function Semana02() {
 
     return(
         <>
-        <div className='numero_semana'>SEMANA 02</div>
+        <div id='semana_02' className='numero_semana'>SEMANA 02</div>
         <div className='subtitulo_semana'><h2>HTML Y CSS -- BOTONES INTERACTIVOS</h2></div>
+        
+        <div className="reflexion_1">
+            <h2 className="h2_10_1">LABORATORIO 2</h2>
+            <div className="area_1">
+                <h3>Definiciones:</h3>
+                <p><strong>HTML (HyperText Markup Language):</strong> Es el lenguaje estándar para crear y estructurar páginas web. Utiliza etiquetas para definir elementos como párrafos, encabezados, enlaces e imágenes.</p>
+                <p><strong>CSS (Cascading Style Sheets):</strong> Es el lenguaje utilizado para describir la presentación de documentos HTML. Permite aplicar estilos como colores, fuentes, espaciamiento y layout a los elementos de la página.</p>
+                <p><strong>Iconos Font Awesome:</strong> Es una biblioteca de iconos vectoriales y herramientas que se pueden usar con HTML y CSS para agregar iconos fácilmente a una página web.</p>            
+            </div>
+            
+            <div className="area_1">
+                <h3>Reflexión Metacognitiva:</h3>
+                <p>En este laboratorio, consolidé mis conocimientos básicos sobre HTML y CSS, y aprendí a integrar iconos de Font Awesome en mis proyectos. Empecé creando estructuras básicas de HTML y luego apliqué estilos con CSS para mejorar la apariencia visual. La integración de iconos de Font Awesome añadió un nivel extra de personalización y funcionalidad. Aprendí a través de la construcción de proyectos prácticos, lo que me permitió ver cómo los diferentes elementos se combinan para crear una página web completa y estilizada.</p>
+                </div>
+        </div>
+
         <div className="semana02_contenido">
 
             <h2>2.1 BOTONES BOOTSTRAP</h2>

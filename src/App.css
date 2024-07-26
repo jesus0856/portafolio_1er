@@ -18,7 +18,7 @@
   top: 0;
   left: 0;
   padding: 20px 100px;
-  background-color: rgb(4, 110, 203);
+  background-color: rgb(16, 73, 0);
   z-index: 1000;
 }
 
@@ -40,6 +40,7 @@
 #portada {
   margin-top: 50px;
   padding: 10px 20px;
+  margin-bottom: 60px;
 }
 
 .curso {
@@ -57,9 +58,9 @@
   justify-content: space-evenly;
 }
 
-.cont_foto img {
+.img_portada {
   border-radius: 20px;
-  filter: drop-shadow( 2px 2px 8px  rgb(251, 247, 6)
+  filter: drop-shadow( 2px 2px 8px  rgb(255, 255, 255)
   );
 
   opacity: .9;
@@ -73,7 +74,7 @@
   font-weight: bold;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size:3.5em ;
-  color: #ebf529;
+  color: #cccccc;
 }
 
 /*  SEMANA 01  */
@@ -691,5 +692,83 @@ textarea {
   margin-top: 20px;
   text-align: left;
   display: inline-block;
+}
 
+
+
+.reflexion_1 {
+  padding: 30px;
+}
+
+.cont_foto_10 {
+  padding: 30px;
+}
+.img_10_1 {
+  width: 600px;
+}
+
+.img_10_2 {
+  width: 100px;
+}
+
+.cont_10_1, .cont_11, .cont_12 {
+  display: flex;
+}
+
+.area_10 {
+  margin: 12px;
+}
+
+.h2_10_1 {
+  border-bottom: 2px solid #333;
+  padding-bottom: 10px;
+}
+
+.cont_imgs_10_2 {
+  display: flex;
+  gap: 12px;
+}
+
+.img_10_3 {
+  width: 600px;
+}
+
+.img_12_1_1 {
+  width: 600px;
+}
+
+.area_1 {
+  width: 800px;
+}
+
+
+.cont_navsemanas {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40px; /* Ajusta según tus necesidades */
+  padding: 1px;
+  background-color: #292a44;
+}
+
+.NavSemanas {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.NavSemanas li {
+  margin: 0 10px; /* Espacio entre los enlaces */
+}
+
+.NavSemanas a {
+  text-decoration: none;
+  color: #bdbfbd; /* Ajusta el color según tus necesidades */
+  font-weight: bold; /* Ajusta el estilo según tus necesidades */
+}
+
+.NavSemanas a:hover {
+  color: #73ff00; /* Color al pasar el ratón por encima */
 }
