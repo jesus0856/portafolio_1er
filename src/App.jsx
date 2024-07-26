@@ -9,6 +9,8 @@ import Semana10 from './semana_10';
 import Semana11 from './semana_11';
 import Semana12 from './semana_12';
 
+import img_portada from '../recursos/img_portada.jpeg'
+
 function App() {
   return (
     <div>
@@ -48,7 +50,7 @@ function Portada() {
         <div className='curso'>Desarrollo de Aplicaciones Web</div>
         <div className='portada'>
           <div className='cont_foto'>
-            <img className='img_portada' src="./public/img_portada.jpeg" alt="foto" />
+            <img className='img_portada' src={img_portada} alt="foto" />
           </div>
           <div className='cont_descripcion'>
             <div>
