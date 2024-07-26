@@ -48,7 +48,7 @@ function Portada() {
         <div className='curso'>Desarrollo de Aplicaciones Web</div>
         <div className='portada'>
           <div className='cont_foto'>
-            <img className='img_portada' src="./recursos/img_portada.jpeg" alt="foto" />
+            <img className='img_portada' src="./public/img_portada.jpeg" alt="foto" />
           </div>
           <div className='cont_descripcion'>
             <div>

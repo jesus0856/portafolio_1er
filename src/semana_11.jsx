@@ -8,7 +8,7 @@ function Semana11 () {
                     <div className='cont_foto_10'>
                         
                         <h3>Ejercicio práctico 11.1</h3>
-                        <img className="img_10_3" src="./recursos/ejercicio 10_3.png" alt="foto" />
+                        <img className="img_10_3" src="./public/ejercicio 10_3.png" alt="foto" />
 
                     </div>
 

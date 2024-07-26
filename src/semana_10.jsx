@@ -9,17 +9,17 @@ function Semana10() {
                 
                 <div className='cont_foto_10'>
                     <h3>Ejercicio práctico 10.1</h3>
-                    <img className="img_10_1" src="./recursos/ejercicio 10_1.png" alt="foto" />
+                    <img className="img_10_1" src="./public/ejercicio 10_1.png" alt="foto" />
 
                     <h3>Ejercicio práctico 10.2</h3>
                     <div className="cont_imgs_10_2">
-                    <img className="img_10_2" src="./recursos/ejercicio 10_2_1.png" alt="foto" />
-                    <img className="img_10_2" src="./recursos/ejercicio 10_2_2.png" alt="foto" />   
-                    <img className="img_10_2" src="./recursos/ejercicio 10_2_3.png" alt="foto" /> 
+                    <img className="img_10_2" src="./public/ejercicio 10_2_1.png" alt="foto" />
+                    <img className="img_10_2" src="./public/ejercicio 10_2_2.png" alt="foto" />   
+                    <img className="img_10_2" src="./public/ejercicio 10_2_3.png" alt="foto" /> 
                     </div>
 
                     <h3>Ejercicio práctico 10.3</h3>
-                    <img className="img_10_3" src="./recursos/ejercicio 10_3.png" alt="foto" />
+                    <img className="img_10_3" src="./public/ejercicio 10_3.png" alt="foto" />
 
                 </div>
 

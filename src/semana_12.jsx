@@ -8,15 +8,15 @@ function Semana12 () {
                     <div className='cont_foto_10'>
                         
                         <h3>Ejercicio práctico 12.1 metodo GET</h3>
-                        <img className="img_12_1_1" src="./recursos/ejercicio 12_1_1.png" alt="foto" />
-                        <img className="img_12_1_1" src="./recursos/ejercicio 12_1_2.png" alt="foto" />
+                        <img className="img_12_1_1" src="./public/ejercicio 12_1_1.png" alt="foto" />
+                        <img className="img_12_1_1" src="./public/ejercicio 12_1_2.png" alt="foto" />
 
                         <h3>Ejercicio práctico 12.2 metodo POST</h3>
-                        <img className="img_12_1_1" src="./recursos/ejercicio 12_2_1.png" alt="foto" />
-                        <img className="img_12_1_1" src="./recursos/ejercicio 12_2_2.png" alt="foto" />
+                        <img className="img_12_1_1" src="./public/ejercicio 12_2_1.png" alt="foto" />
+                        <img className="img_12_1_1" src="./public/ejercicio 12_2_2.png" alt="foto" />
 
                         <h3>Ejercicio práctico 12.3</h3>
-                        <img className="img_12_1_1" src="./recursos/ejercicio 12_3.png" alt="foto" />
+                        <img className="img_12_1_1" src="./public/ejercicio 12_3.png" alt="foto" />
 
 
                     </div>
